@@ -25,6 +25,8 @@
   "homepage": "https://github.com/lucasca73/DiceRollerBot#readme",
   "dependencies": {
     "discord.io": "^2.5.3",
+    "random-number": "0.0.9",
+    "true-random": "^1.1.1",
     "winston": "^2.4.0"
   }
 }
