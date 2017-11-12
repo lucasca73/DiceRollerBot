@@ -1,0 +1,30 @@
+{
+  "name": "dice_roller",
+  "version": "1.0.0",
+  "description": "Discord bot dice roller",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasca73/DiceRollerBot.git"
+  },
+  "keywords": [
+    "DiceRoller",
+    "Bot",
+    "Discord",
+    "Dice",
+    "Roll"
+  ],
+  "author": "Lucas Costa Araujo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/lucasca73/DiceRollerBot/issues"
+  },
+  "homepage": "https://github.com/lucasca73/DiceRollerBot#readme",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^2.4.0"
+  }
+}
